@@ -13,7 +13,7 @@ const Why = () => {
           </div>
           {/* text */}
           <div className="order-1 lg:order-2 max-w-[480px] " data-aos="fade-left" data-aos-delay="400">
-            <h2 className="section-title">Why you should choose KACHITECH</h2>
+            <h2 className="section-title">Why you should choose CRAPPO</h2>
             <p className="section-subtitle">
               Experience the next generation cryptocurrency platform. No
               financial borders, extra fees, and fake reviews
